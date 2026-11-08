@@ -172,4 +172,4 @@ _To be filled in as I build: e.g., designing a relational schema, writing aggreg
 
 ## Contact
 
-**Crystal Patino** · [GitHub](https://github.com/crystalpatinoDEV) · LinkedIn: _add link_
+**Crystal Patino** · [GitHub](https://github.com/crystalpatinoDEV)
